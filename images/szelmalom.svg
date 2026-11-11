@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Szélmalom rajza">
+<rect width="400" height="300" fill="#dcebf7"/>
+<rect y="235" width="400" height="65" fill="#6aa84f"/>
+<path d="M0 262 Q100 248 200 262 T400 262 V300 H0Z" fill="#8cc56a"/>
+<polygon points="160,235 240,235 224,110 176,110" fill="#f2e3c6" stroke="#1d3f8a" stroke-width="4"/>
+<polygon points="168,110 232,110 200,72" fill="#c0392b" stroke="#1d3f8a" stroke-width="4"/>
+<rect x="188" y="195" width="24" height="40" fill="#1d3f8a"/>
+<g stroke="#1d3f8a" stroke-width="5" fill="#fff" transform="translate(200 100)">
+<g id="s"><line x1="0" y1="0" x2="0" y2="-80"/><rect x="2" y="-78" width="22" height="46" fill="#fff"/></g>
+<use href="#s" transform="rotate(90)"/><use href="#s" transform="rotate(180)"/><use href="#s" transform="rotate(270)"/>
+<circle r="7" fill="#e87722"/>
+</g>
+</svg>
